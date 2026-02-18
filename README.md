@@ -36,4 +36,5 @@ During this project, I worked on:
 
 ## Author
 Kevser Ünaldı
+
 This project demonstrates my interest in artificial intelligence, data extraction and enterprise solutions. My long-term goal is to combine SAP ERP and AI technologies.
